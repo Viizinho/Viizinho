@@ -2,8 +2,9 @@
 
   ##
   ### Affiliations
-   - Computer Science Undergraduate at **UFPB**.
+   - Computer Science Undergraduate at **UFPB**
   ### Personal
+   - Future Game Dev
    - Game Translator in spare time
  
 <div align="center">
