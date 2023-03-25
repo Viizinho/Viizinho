@@ -1,10 +1,11 @@
-<h1 align="center">Hello there, i'm João Vitor</h1>
+<h2 align="center">Hello there, i'm João Vitor</h2>
 
   ### Affiliations
    - Computer Science Student at **UFPB**
-  ### Personal
-   - Future Game Dev
-   - Game Translator in spare time
+
+  ### Goals
+   - Full-Time Game Dev
+   - Have my own game's trailer at E3
  
 <div align="center">
   <a href="https://github.com/Viizinho">
