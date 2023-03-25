@@ -2,7 +2,7 @@
 
   ### Affiliations
    - Computer Science Student at **UFPB**
-   - marketing manager at **Afterlife Studio Tattoo**
+   - Marketing Manager at **Afterlife Studio Tattoo**
 
   ### Goals
    - Be a full-time **Game Dev**
