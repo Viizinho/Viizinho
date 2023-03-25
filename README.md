@@ -6,7 +6,7 @@
 
   ### Goals
    - Be a full-time **Game Dev**
-   - Have my game's trailer at **E3**
+   - Show my game trailer on the **E3**
  
 <div align="center">
   <a href="https://github.com/Viizinho">
