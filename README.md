@@ -2,10 +2,11 @@
 
   ### Affiliations
    - Computer Science Student at **UFPB**
+   - marketing manager at **Afterlife Studio Tattoo**
 
   ### Goals
-   - Full-Time Game Dev
-   - Have my own game's trailer at E3
+   - Be a full-time **Game Dev**
+   - Have my game's trailer at **E3**
  
 <div align="center">
   <a href="https://github.com/Viizinho">
