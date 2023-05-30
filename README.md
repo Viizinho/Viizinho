@@ -2,7 +2,7 @@
 
   ### Affiliations
    - Computer Science Student at **UFPB**
-   - Studiyng **Back-End**
+   - Studying **Back-End**
 
   ### Goals
    - Be a full-time **Game Dev**
