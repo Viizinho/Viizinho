@@ -3,6 +3,7 @@
   ### Affiliations
    - Computer Science Student at **UFPB**
    - Studying **Back-End**
+   - Currently working on **[AeroLinker](https://github.com/guidantas21/Flight-Optimization)** 
 
   ### Goals
    - Be a full-time **Game Dev**
