@@ -3,7 +3,7 @@
 ## About Me
   * Computer Science Student at **UFPB**
   * Currently studying **Java** and **Javascript**
-  * Working on [SafeMinder](https://github.com/Viizinho/SafeMinder)
+  * Working on [Conductor](https://github.com/Viizinho/Conductor)
 
 
 ## **Knowledge**
