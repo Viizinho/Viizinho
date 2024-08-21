@@ -4,7 +4,7 @@
 
 ## About Me
   * Computer Science Student at **UFPB**
-  * Working on [Conductor](https://github.com/Viizinho/Conductor)
+  * Working on [Musical Node](https://github.com/Viizinho/Musical-Node)
 
 <br>
 
