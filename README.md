@@ -4,7 +4,7 @@
 
 ## About Me
   * Computer Science Student at **UFPB**
-  * Working on [Musical Node](https://github.com/Viizinho/Musical-Node) and [Bard](https://github.com/Viizinho/Bard-Playlist-Generator)
+  * Working on [Musical Node](https://github.com/Viizinho/Musical-Node) and [Bard API](https://github.com/Viizinho/Bard_API)
 
 <br>
 
