@@ -4,7 +4,7 @@
 
 ## About Me
   * Computer Science Student at **UFPB**
-  * Working on [Bard API](https://github.com/Viizinho/Bard_API)
+  * Working on [Alcoolrithm]((https://github.com/Viizinho/Alcoolrithm))
 
 <br>
 
