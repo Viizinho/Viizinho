@@ -4,7 +4,7 @@
 
 ## About Me
   * Computer Science Student at **UFPB**
-  * Working on [Alcoolrithm]((https://github.com/Viizinho/Alcoolrithm))
+  * Working on [Alcoolrithm](https://github.com/Viizinho/Alcoolrithm)
 
 <br>
 
